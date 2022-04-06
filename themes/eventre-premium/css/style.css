@@ -1,3 +1,7 @@
+.space {
+  height: 80%;
+}
+
 /*=== MEDIA QUERY ===*/
 @import url("https://fonts.googleapis.com/css?family=Montserrat:300,400,500,600,700|Roboto:300,400,500,700");
 html {
@@ -263,7 +267,7 @@ button:hover {
 }
 
 .bg-registration {
-  background: url(../images/background/registration-background.jpg) no-repeat;
+  background: url(../images/background/festa.jpg) no-repeat;
   background-size: cover;
 }
 
@@ -1988,7 +1992,7 @@ select.form-control:not([size]):not([multiple]) {
 .registration .registration-block {
   position: relative;
   height: 100%;
-  padding: 120px 10%;
+  padding: 320px 10%;
 }
 
 .registration .registration-block .block {
